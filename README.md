@@ -1,9 +1,9 @@
 Hello! My name is ✨Oxana✨. 
 
 - 🌱 I’m currently learning React
-- - 🔭 I’m currently looking for a job
-- - 💬 My portfolio is here: https://oxxann.github.io/portfolio/
-  - Feel free to contact me 😄
+- 🔭 I’m currently looking for a job
+- 💬 My portfolio is here: https://oxxann.github.io/portfolio/
+- 😄 Feel free to contact me 
 
 <!--
 **OxxAnn/OxxAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
